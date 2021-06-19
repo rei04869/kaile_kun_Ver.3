@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\kaile-kyn-Ver.2\kaile-kyn-Ver.2\bin\Debug\kaile-kyn-Ver.2.exe.config
+C:\Users\user\source\repos\kaile-kyn-Ver.2\kaile-kyn-Ver.2\bin\Debug\kaile-kyn-Ver.2.exe
+C:\Users\user\source\repos\kaile-kyn-Ver.2\kaile-kyn-Ver.2\bin\Debug\kaile-kyn-Ver.2.pdb
+C:\Users\user\source\repos\kaile-kyn-Ver.2\kaile-kyn-Ver.2\obj\Debug\kaile-kyn-Ver.2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\kaile-kyn-Ver.2\kaile-kyn-Ver.2\obj\Debug\kaile_kyn_Ver._2.Properties.Resources.resources
+C:\Users\user\source\repos\kaile-kyn-Ver.2\kaile-kyn-Ver.2\obj\Debug\kaile-kyn-Ver.2.csproj.GenerateResource.cache
+C:\Users\user\source\repos\kaile-kyn-Ver.2\kaile-kyn-Ver.2\obj\Debug\kaile-kyn-Ver.2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\kaile-kyn-Ver.2\kaile-kyn-Ver.2\obj\Debug\kaile-kyn-Ver.2.exe
+C:\Users\user\source\repos\kaile-kyn-Ver.2\kaile-kyn-Ver.2\obj\Debug\kaile-kyn-Ver.2.pdb
